@@ -1,6 +1,9 @@
 Judul: Codeigniter Untuk Pemula
+
 Author: Khoerul Umam
+
 Email: khoerul27@gmail.com
+
 Description: Codeigniter untuk Pemula berisi beberapa Bab yang akan menjelaskan tentang bagaimana menggunakan framework Codeigniter bagi pemula seperti Saya. Di sini saya akan coba menjelaskan dengan bahasa sederhana dan menyenangkan.
 
 Table Of Content:
