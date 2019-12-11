@@ -16,8 +16,8 @@ Kamu dapat berkontribusi mengirim tulisan apa saja tentang dunia teknologi di si
 1. Clone repo ini
 2. Buat folder baru di dalam folder `Books`
 3. Beri nama folder yang telah dibuat dengan judul utama dari Mini Book yang akan dibuat, misalnya `Codeigniter untuk Pemula`
-4. Buat file `description.md` yang isinya akan dijelaskan di subbab berikutnya.
-5. Buat setiap bab atau chapter dalam format `.md`
+4. Buat file `description.md` di dalam folder yang telah dibuat yang isinya akan dijelaskan di subbab berikutnya.
+5. Buat setiap bab atau chapter dalam format `.md` di dalam folder tersebut.
 
 ## Isi description.md
 Untuk isi dari `description.md` adalah sebagai berikut:
